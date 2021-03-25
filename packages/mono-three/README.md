@@ -4,6 +4,7 @@ deps +
 
 - one
 - two
+- new feature
 
 ## Install
 
